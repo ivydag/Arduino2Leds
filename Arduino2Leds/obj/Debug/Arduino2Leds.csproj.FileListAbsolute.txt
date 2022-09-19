@@ -1,0 +1,9 @@
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\bin\Debug\Arduino2Leds.exe.config
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\bin\Debug\Arduino2Leds.exe
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\bin\Debug\Arduino2Leds.pdb
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.csprojResolveAssemblyReference.cache
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.Form1.resources
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.Properties.Resources.resources
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.csproj.GenerateResource.Cache
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.exe
+c:\users\ivonne\documents\visual studio 2012\Projects\Arduino2Leds\Arduino2Leds\obj\Debug\Arduino2Leds.pdb
